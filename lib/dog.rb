@@ -1,3 +1,10 @@
 # Your code goes here!
 class Dog 
-  def 
+  def name=(dog)
+    @
+    
+    
+    
+    
+    
+end
